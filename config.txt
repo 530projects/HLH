@@ -1,0 +1,2 @@
+# This is my boot/config.txt file for my retropi image
+# It enables the dpi18mode6 device tree overlay and the pwm channels on GPIO 18 and 19
