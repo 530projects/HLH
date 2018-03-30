@@ -1,4 +1,4 @@
-To use the Pi's GPIO to drive the TFT Display, I use the information I found on this <a href="http://blog.reasonablycorrect.com/raw-dpi-raspberry-pi/">Reasonably Correct</a> blog.
+To use the Pi's GPIO to drive the TFT Display, I used the information I found on this <a href="http://blog.reasonablycorrect.com/raw-dpi-raspberry-pi/">Reasonably Correct</a> blog.
 
 On his blog he has a link to a <a href="https://docs.google.com/spreadsheets/d/15KRhR_ewzdGEeD576rL36FbblRVt5HGhNZakOgW-zg4/edit?usp=sharing">google sheet</a> for how he calculated the <b>dpi_output_format</b> and <b>hdmi_timings</b> values needed in the boot/config.txt file. 
 
