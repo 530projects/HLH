@@ -7,6 +7,6 @@ The Pi needs a .dtbo file for it to load the device tree overlay. How you create
 To compile the blob file myself. I first created the <b>dpi18mode6.dts</b> file in the <b>/boot/</b> directory.</br>
 Then I used dtc to compile it into the .dtbo file with this command:
 
-<b><i>sudo dtc -W no-unit_address_vs_reg -@ -I dts -O dtb -o /boot/dpi18mode6.dtbo /boot/dpi18mode6.dts</i></b>
+<b><i>sudo dtc -W no-unit_address_vs_reg -@ -I dts -O dtb -o /boot/overlays/dpi18mode6.dtbo /boot/dpi18mode6.dts</i></b>
 
 Once that is created you then have to add <b>dtoverlay=dpi18mode6</b> to the boot/config.txt file so the pi knows to load it. You can copy my config.txt from this github repo.
