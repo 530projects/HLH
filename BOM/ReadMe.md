@@ -15,9 +15,9 @@ The Parts that I used for this project include the following:
 <a href="https://www.amazon.com/gp/product/B01JYGYAX8/ref=oh_aui_detailpage_o08_s01?ie=UTF8&psc=1">SNES Controller</a></br>
 <a href="https://www.amazon.com/gp/product/B075ZN1GXK/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1">NES Controller</a>
 
-<a href="https://www.amazon.com/gp/product/B01L2HC4GW/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1">Male MicroUSB connector</a></br>
-<a href="https://www.amazon.com/gp/product/B0183KF7TM/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1">Female MicroUSB connector</a>
+<a href="https://www.amazon.com/gp/product/B01L2HC4GW/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1">Male Micro-USB connector</a></br>
+<a href="https://www.amazon.com/gp/product/B0183KF7TM/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1">Female Micro-USB connector</a>
 
 
-The Speaker I cut out of an old birthday card that sang a song when you opened it. </br>
+The Speaker was cut out of an old birthday card that sang a song when you opened it. </br>
 The <a href="https://www.sparkfun.com/products/102">Power Switch</a>, Off Button, LED, Resistors and Headphone jack I had laying around from previous projects. 
